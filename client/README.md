@@ -1,1 +1,1 @@
-OzOyretim Project
+OzOyretim Frontend
